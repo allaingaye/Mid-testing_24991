@@ -20,9 +20,11 @@ Test fine calculation logic for late returns.
 
 Demonstrate role‑based access control through functional and integration testing.
 
-Back-End
+# Back-End
 
 Java (Servlets, Maven)
+
+Hibernate ORM
 
 JDBC for database connectivity
 
