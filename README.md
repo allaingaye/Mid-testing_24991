@@ -20,13 +20,6 @@ Test fine calculation logic for late returns.
 
 Demonstrate role‑based access control through functional and integration testing.
 
-# 🛠️ Tech Stack
-Front-End
-
-HTML5, CSS3, JavaScript
-
-JSP (Java Server Pages) for dynamic content
-
 Back-End
 
 Java (Servlets, Maven)
