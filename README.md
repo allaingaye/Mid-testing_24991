@@ -1,7 +1,7 @@
 # 📚 AUCA Library Management System
 
 # 🔎 Project Overview
-The AUCA Library Management System is a dynamic web application developed as part of a Software Testing Exam Project. It is built using Java (Maven, Servlets, JSP)
+The AUCA Library Management System is a dynamic web application developed as part of a Software Testing  Project. It is built using Java (Maven, Servlets, JSP)
 
 The system automates library operations by managing books, memberships, borrowing activities, shelves, rooms, and user roles. It integrates role‑based access control and location management to ensure secure and efficient handling of library resources.
 
