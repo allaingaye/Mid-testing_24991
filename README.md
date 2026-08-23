@@ -1,13 +1,13 @@
 # 📚 AUCA Library Management System
 
-# 🔎 Project Overview
+#  Project Overview
 The AUCA Library Management System is a dynamic web application developed as part of a Software Testing  Project. It is built using Java (Maven, Servlets, JSP)
 
 The system automates library operations by managing books, memberships, borrowing activities, shelves, rooms, and user roles. It integrates role‑based access control and location management to ensure secure and efficient handling of library resources.
 
 This project emphasizes software testing principles by validating user actions, enforcing borrowing limits, checking authentication, and ensuring data integrity across modules.
 
-# 🎯 Objectives
+#  Objectives
 Apply software testing techniques to validate core library operations.
 
 Ensure secure authentication with hashed passwords.
@@ -30,7 +30,7 @@ JDBC for database connectivity
 
 PostgreSQL (auca_library_db)
 
-# 📂 System Features
+#  System Features
 Location Management
 Users can create hierarchical locations: Province → District → Sector → Cell → Village.
 
@@ -69,7 +69,7 @@ Fine initialized to 0 Rwf at borrow date.
 
 Late returns automatically generate charges based on membership rate.
 
-# 🧪 Software Testing Focus
+#  Software Testing Focus
 This project is designed to demonstrate testing strategies:
 
 Unit Testing: Validate membership rules, fine calculation, and borrowing limits.
@@ -84,7 +84,7 @@ Boundary Testing: Check borrowing limits per membership type.
 
 Regression Testing: Ensure updates do not break existing features.
 
-# 📊 Database Schema
+#  Database Schema
 Database: auca_library_db  
 Key tables:
 
@@ -96,7 +96,7 @@ books, shelves, rooms
 
 borrow_records (tracks borrow date, return date, fines)
 
-# 🚀 Getting Started
+#  Getting Started
 Clone the repository.
 
 Configure PostgreSQL and create the database auca_library_db.
